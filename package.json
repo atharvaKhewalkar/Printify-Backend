@@ -1,0 +1,25 @@
+{
+  "name": "printify-user-backend",
+  "version": "1.0.0",
+  "description": "Web application of Printify Users",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/atharvaKhewalkar/Printify-User-Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/atharvaKhewalkar/Printify-User-Backend/issues"
+  },
+  "homepage": "https://github.com/atharvaKhewalkar/Printify-User-Backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "multer": "^2.0.2",
+    "pg": "^8.16.3"
+  }
+}
